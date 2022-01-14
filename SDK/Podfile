@@ -1,0 +1,12 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'StarMgsIO_SDK_iOS_ObjC' do
+# Comment the next line if you don't want to use dynamic frameworks
+use_frameworks!
+
+
+# Pods for StarMgsIO_SDK_iOS_ObjC
+pod 'StarMgsIO', '1.0.1'
+
+end
