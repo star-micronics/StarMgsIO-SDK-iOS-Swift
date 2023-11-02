@@ -1,9 +1,10 @@
-# Overview
+# StarMgsIO iOS SDK Ver 1.5.0
+## Overview
 This package contains StarMgsIO SDK.
 starmgsio.jar is a library for supporting application development for Star scales. Please refer to [StarMgsIO iOS SDK document](https://www.star-m.jp/products/s_print/sdk/starmgsio_sdk/manual/ios/en/index.html) for detail of usage. 
 
 
-# Scope
+## Scope
 Supported models:
 - MG-S Scale
     - MG-S322
@@ -26,5 +27,5 @@ iOS 13.0 - 17.0<br>
 Supported Xcode:<br>
 Xcode 14.1
 
-# Copyright<br>
+## Copyright
 Copyright 2019 - 2023 Star Micronics Co., Ltd. All rights reserved.
