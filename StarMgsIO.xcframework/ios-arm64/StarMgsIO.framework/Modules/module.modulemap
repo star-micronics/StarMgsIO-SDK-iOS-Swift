@@ -1,0 +1,6 @@
+framework module StarMgsIO {
+  umbrella header "StarMgsIO.h"
+  export *
+
+  module * { export * }
+}
