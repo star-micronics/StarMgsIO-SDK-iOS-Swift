@@ -4,6 +4,8 @@
 <dict>
 	<key>NSPrivacyTracking</key>
 	<false/>
+	<key>NSPrivacyAccessedAPITypes</key>
+	<array/>
 	<key>NSPrivacyTrackingDomains</key>
 	<array/>
 	<key>NSPrivacyCollectedDataTypes</key>
@@ -20,10 +22,6 @@
 				<string></string>
 			</array>
 		</dict>
-	</array>
-	<key>NSPrivacyAccessedAPITypes</key>
-	<array>
-		<dict/>
 	</array>
 </dict>
 </plist>
