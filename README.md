@@ -1,4 +1,4 @@
-# StarMgsIO Android SDK Ver 1.5.3
+# StarMgsIO iOS SDK Ver 1.5.3
 ## Overview
 This package contains StarMgsIO SDK.
 starmgsio.jar is a library for supporting application development for Star scales. Please refer to [StarMgsIO iOS SDK document](https://www.star-m.jp/products/s_print/sdk/starmgsio_sdk/manual/ios/en/index.html) for detail of usage. 
